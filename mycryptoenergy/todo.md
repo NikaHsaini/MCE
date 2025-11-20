@@ -55,3 +55,12 @@
 - [x] Créer main.py pour installer les dépendances automatiquement
 - [x] Ajouter la possibilité de lancer le serveur depuis le script
 - [x] Créer README.md avec instructions d'utilisation
+
+## Nouveau logo
+- [x] Générer un nouveau logo inspiré du design violet-rose avec esprit quantique
+- [x] Intégrer le nouveau logo dans le site
+
+## Écran de chargement
+- [x] Créer un composant LoadingScreen avec logo tournant
+- [x] Ajouter le message "Bienvenue dans le Web4"
+- [x] Intégrer l'écran de chargement au démarrage de l'application

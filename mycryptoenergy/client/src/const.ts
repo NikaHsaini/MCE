@@ -2,7 +2,7 @@ export { COOKIE_NAME, ONE_YEAR_MS } from "@shared/const";
 
 export const APP_TITLE = import.meta.env.VITE_APP_TITLE || "App";
 
-export const APP_LOGO = "/logo.png";
+export const APP_LOGO = "/logo-quantum.png";
 
 export const SITE_DESCRIPTION = "La Première Banque d'Énergie Quantique au Monde";
 
